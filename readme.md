@@ -1,4 +1,5 @@
 ## Кулинарный сайт "AllCook"
+[![Join the chat at https://gitter.im/altiore/allcook](https://badges.gitter.im/altiore/allcook.svg)](https://gitter.im/altiore/allcook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Demo
 
