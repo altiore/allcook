@@ -28,5 +28,14 @@ export function RoutesConfig($stateProvider, $urlRouterProvider) {
 					templateUrl: getView('landing')
 				}
 			}
+		})
+		.state('app.test', {
+			url: '/test',
+			data: {},
+			views: {
+				'main@': {
+					templateUrl: getView('test')
+				}
+			}
 		});
 }
